@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>VeloDemo</title>
+    <link>/</link>
+    <description>Recent content on VeloDemo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jul 2021 16:31:42 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Malware Examples</title>
+      <link>/malware/malware-examples/</link>
+      <pubDate>Wed, 28 Jul 2021 16:31:42 -0500</pubDate>
+      
+      <guid>/malware/malware-examples/</guid>
+      <description> APWXC  </description>
+      <content>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://velodemo.ninja/docs/apwxc.exe&#34;&gt;APWXC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Url Examples</title>
+      <link>/url-filtering/url-examples/</link>
+      <pubDate>Wed, 28 Jul 2021 16:30:53 -0500</pubDate>
+      
+      <guid>/url-filtering/url-examples/</guid>
+      <description> Gambling - gambling.com Gambling - bet365.com  </description>
+      <content>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gambling.com&#34;&gt;Gambling - gambling.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bet365.com&#34;&gt;Gambling - bet365.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Initial Website</title>
+      <link>/posts/my-first-post/</link>
+      <pubDate>Wed, 28 Jul 2021 16:17:25 -0500</pubDate>
+      
+      <guid>/posts/my-first-post/</guid>
+      <description>Added some malware examples, and links to blocked websites</description>
+      <content>&lt;p&gt;Added some malware examples, and links to blocked websites&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

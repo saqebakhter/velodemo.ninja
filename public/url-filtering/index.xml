@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Url-filterings on VeloDemo</title>
+    <link>/url-filtering/</link>
+    <description>Recent content in Url-filterings on VeloDemo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Jul 2021 16:30:53 -0500</lastBuildDate><atom:link href="/url-filtering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Url Examples</title>
+      <link>/url-filtering/url-examples/</link>
+      <pubDate>Wed, 28 Jul 2021 16:30:53 -0500</pubDate>
+      
+      <guid>/url-filtering/url-examples/</guid>
+      <description> Gambling - gambling.com Gambling - bet365.com  </description>
+      <content>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gambling.com&#34;&gt;Gambling - gambling.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://bet365.com&#34;&gt;Gambling - bet365.com&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
