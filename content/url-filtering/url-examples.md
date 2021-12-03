@@ -8,4 +8,4 @@ showFullContent: true
 - [Gambling - gambling.com](https://gambling.com)
 - [Gambling - bet365.com](https://bet365.com)
 
-- [Alcohol & Tobacco - bet365.com](https://wineinsiders.com)
+- [Alcohol & Tobacco - wineinsiders.com](https://wineinsiders.com)
