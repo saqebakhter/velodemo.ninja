@@ -27,10 +27,20 @@
       <pubDate>Wed, 28 Jul 2021 16:30:53 -0500</pubDate>
       
       <guid>/url-filtering/url-examples/</guid>
-      <description> Gambling - gambling.com Gambling - bet365.com  </description>
+      <description>  Gambling - gambling.com
+  Gambling - bet365.com
+  Alcohol &amp;amp; Tobacco - bet365.com
+  </description>
       <content>&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://gambling.com&#34;&gt;Gambling - gambling.com&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bet365.com&#34;&gt;Gambling - bet365.com&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://gambling.com&#34;&gt;Gambling - gambling.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://bet365.com&#34;&gt;Gambling - bet365.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://wineinsiders.com&#34;&gt;Alcohol &amp;amp; Tobacco - bet365.com&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 </content>
     </item>
