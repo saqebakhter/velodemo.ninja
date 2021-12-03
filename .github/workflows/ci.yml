@@ -83,6 +83,18 @@ jobs:
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ env.SITE-BRANCH }}
+        
+    - name: Install SSH Key
+      uses: shimataro/ssh-key-action@v2
+      with:
+        key: ${{ secrets.SSH_PRIVATE_KEY }}         
+        known_hosts: 'just-a-placeholder-so-we-dont-get-errors'
+    - name: Adding Known Hosts
+      run: ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+
+    - name: Deploy with gitpull
+      run: ssh -A ubuntu@${{ secrets.SSH_HOST }} "cd /home/ubuntu/velodemo.ninja && git pull"        
+        
 #     # Store the AWS credentials on the runner.
 #     - name: Configure AWS credentials
 #       if: steps.nothing_committed.conclusion == 'skipped'
